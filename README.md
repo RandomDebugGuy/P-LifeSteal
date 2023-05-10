@@ -24,7 +24,8 @@
 
 P-LifeSteal brings a new game mechanic. When a player dies, he loses one of his hearts, but if he is killed by another
 player, the killer will receive the opponent's heart. The plugin is highly configurable and you can learn more about its
-features by looking at the plugin [documentation](https://ls.przemus.xyz/).
+features by looking at the plugin [documentation](https://ls.przemus.xyz/). This fork was made because the developer of 
+the original plugin did not fix the bug in which you can withdraw more hearts than the player has
 
 ## Features
 
